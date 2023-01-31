@@ -1,3 +1,3 @@
 module.exports = {
-  baseUrl: "/digital-map",
+  baseUrl: "/startup-india-maps",
 };
